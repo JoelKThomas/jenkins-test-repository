@@ -1,0 +1,27 @@
+# Build output
+/target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Compiled classes
+*.class
+
+# Logs and runtime files
+*.log
+*.pid
+app.pid
+
+# IDE and editor folders
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Maven
+/.mvn/
+/.settings/
